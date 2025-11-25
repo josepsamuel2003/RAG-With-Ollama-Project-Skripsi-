@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+transformers
+pypdf
+pymupdf
+evaluate
+numpy
+scikit-learn
+requests
+
